@@ -151,13 +151,3 @@ into a unified computational framework suitable for:
 
 ---
 
-## License
-
-[Add license here]
-
----
-
-## Author
-
-**Xu Chen**  
-Optics · Opto-Mechanics · Computational Photonics · STOP Analysis
